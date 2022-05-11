@@ -1,0 +1,46 @@
+---
+title: "Preliminary title: diminishing return of increasing lift speed"
+#documentclass: article
+#word_document2
+#pdf_document2
+output:
+  bookdown::pdf_document2:
+    toc: false
+    fig_caption: yes
+  #pdf_document:
+    #df_print: paged
+    #self_contained: yes
+    #keep_md: yes
+bibliography: references.bib 
+nocite: '@*'
+
+header-includes:
+  - \usepackage{calligra}
+  - \usepackage[T1]{fontenc}
+  - \usepackage{mathrsfs}
+  - \usepackage{amsmath}
+  - \usepackage{float}
+  - \floatplacement{figure}{H}  #prevent floating of figures
+
+#    - \usepackage{amsmath}
+
+#    - \numberwithin{equation}{section}
+---
+
+# Abstract {-}
+
+# Introduction
+
+# Methods
+
+# Results
+
+# Discussion
+
+# Conclusion
+
+# Appendix
+
+# References
+
+
