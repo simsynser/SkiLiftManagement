@@ -1,6 +1,8 @@
 # SkiLiftManagement
-Manuscript derived from MT Alina Heinrich
 
-Authors: Alina Heinrich, Eva Reibersdorfer-Adelsberger, Maximilian Mündler, Christian Neuwirth
+This GitHub Repository provides the code of the Netlogo Model developed by Alina Heinrich for her masterthesis in her "UNIGIS Master of Applied Geoinformatics"" studies.
 
-We plan to publish a [short paper](https://www.elsevier.com/journals/journal-of-environmental-economics-and-management/0095-0696/guide-for-authors) in the [Journal of Environmental Economics and Management](https://www.journals.elsevier.com/journal-of-environmental-economics-and-management).
+The artikle "Simulating XXXX" is published in GI_Forum Journal Issue 2 in Dezember 2023. Authors are: Alina Heinrich^1^, Eva Reibersdorfer-Adelsberger^1^, Judith Grubinger-Preiner^1^,   Maximilian Mündler^2^, Christian Neuwirth^1^  
+  
+^1^Department of Geoinformatics-Z_GIS, University of Salzburg, Salzburg, Austria  
+^2^ PowerGIS Geografische Informationssysteme GmbH
